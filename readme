@@ -1,0 +1,12 @@
+required pip commands to run this game
+    1.pip install pygame
+
+caution:
+    do not keep high_score.txt file empty it must have numeric value and it must be present in same directory
+
+to run the game run alien_invasion.py
+
+controls
+    arrow keys to control the ship
+    space key to fire bullet
+    esc key to exit game
